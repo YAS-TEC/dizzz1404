@@ -1,0 +1,6 @@
+version control adalh sistem yang merekam perubahan pAda setiap file dari waktu ke waktu,
+ sehingga kita bisa melihat versi sebelumnya jika diinginkan.
+ version control dapat mendukung untuk berbagai jenis file.
+-git init untuk mengupload folder yang di pilih.
+-git add untuk memilih file tapi tidak di tampilkan.
+-git commit -m "first commit" adalh untuk memberi deskripsi sebuah postinggan.
